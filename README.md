@@ -62,10 +62,10 @@ $ git clone https://github.com/ManuCoutinho/feedback-widget
 $ cd feedback-widget
 
 # Install dependencies
-$ npm init
+$ npm install
 
 # Run the project
-$ npm run dev
+$ npm run start
 
 # The server will initialize in the <http://localhost:3333>
 ```
